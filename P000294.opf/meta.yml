@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W20146
   title: འདམ་གཞུང་རྫོང་གི་ལོ་རྒྱུས།
-  volume: ''
+  volume:
+    b96478119a114a40ae19e7c5a40cb5c3:
+      image_group_id: I1GS55151
+      title: Volume 1 of 'dam gzhung rdzong
+      volume_number: 1
+      total_pages: 47
   author: ''
+ebook_metadata:
+  title: འདམ་གཞུང་རྫོང་གི་ལོ་རྒྱུས།
+  author: ''
+  sku: P000294
+  cover: cover.jpg
+  layers:
+  - pagination
